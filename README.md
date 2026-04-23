@@ -1,6 +1,9 @@
 <div align="center">
+  <img src="images/logo.png" alt="AtalayaLabs logo" width="96" />
+  <h1>AtalayaLabs</h1>
+  <p>Open-source software for people who want to own their data.</p>
+</div>
 
-# AtalayaLabs
 
 **Open-source software for people who want to own their data.**
 
