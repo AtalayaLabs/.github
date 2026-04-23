@@ -1,8 +1,6 @@
 <div align="center">
   <img src="images/logo.png" alt="AtalayaLabs logo" width="256" />
 
-  # AtalayaLabs
-
   **Open-source software for people who want to own their data.**
 
   Fast, secure and thoughtfully designed tools focused on privacy, performance and self-hosting.
