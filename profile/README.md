@@ -1,108 +1,91 @@
 <div align="center">
   <img src="images/logo.png" alt="AtalayaLabs logo" width="256" />
 
+  # AtalayaLabs
 
-**Open-source software for people who want to own their data.**
+  **Open-source software for people who want to own their data.**
 
-Fast, secure and thoughtfully designed tools built with a strong focus on performance, simplicity and self-hosting.
+  Fast, secure and thoughtfully designed tools focused on privacy, performance and self-hosting.
 
-<p>
-  <a href="https://github.com/AtalayaLabs/OxiCloud">Main project</a> •
-  <a href="https://github.com/AtalayaLabs/OxiCloud/discussions">Discussions</a> •
-  <a href="https://github.com/AtalayaLabs/OxiCloud/issues">Issues</a> •
-  <a href="https://github.com/AtalayaLabs/OxiCloud/blob/main/CONTRIBUTING.md">Contributing</a>
-</p>
-
+  <p>
+    <a href="https://github.com/AtalayaLabs/OxiCloud">OxiCloud</a> •
+    <a href="https://github.com/AtalayaLabs/OxiCloud/discussions">Discussions</a> •
+    <a href="https://github.com/AtalayaLabs/OxiCloud/issues">Issues</a> •
+    <a href="https://github.com/AtalayaLabs/OxiCloud/blob/main/CONTRIBUTING.md">Contributing</a>
+  </p>
 </div>
 
 ---
 
-## What is AtalayaLabs?
+## About
 
-AtalayaLabs is the home of practical, high-performance open-source software.
+AtalayaLabs builds practical open-source software with a simple idea behind it:
 
-The goal is simple: build tools that are **fast**, **private**, and **easy to run**, without unnecessary complexity.
+- Your data should stay under your control.
+- Infrastructure should feel lightweight, not exhausting.
+- Performance should be a feature, not an afterthought.
+- Good software should be powerful **and** easy to run.
 
-We care about:
-
-- Ownership over lock-in.
-- Performance over bloat.
-- Clear product design over feature chaos.
-- Open collaboration over closed roadmaps.
+The focus is on tools that are fast, reliable and pleasant to use, with a strong preference for self-hosting and operational simplicity.
 
 ## Featured project
 
 ### OxiCloud
 
-**OxiCloud** is an ultra-fast, secure and lightweight self-hosted cloud platform built in Rust.
+**OxiCloud** is a fast, secure and lightweight self-hosted cloud platform built in Rust.
 
-It is designed for people who want a modern alternative for storing, syncing and accessing their files while staying in control of their own infrastructure.
+It is designed for people who want a modern way to store, sync and access their files without giving up control of their infrastructure.
 
-**Why OxiCloud exists:**
+**Why it exists:**
 
-- Traditional self-hosted platforms often feel heavy and difficult to maintain.
-- Many teams want simpler infrastructure with better performance.
-- Privacy-focused users want modern tools without giving up ownership of their data.
+- Traditional self-hosted platforms are often too heavy.
+- Many users want simpler deployment and lower resource usage.
+- Privacy-conscious teams need modern tools without lock-in.
 
-**Explore OxiCloud:**
+**Start here:**
 
 - Repository: <https://github.com/AtalayaLabs/OxiCloud>
 - Discussions: <https://github.com/AtalayaLabs/OxiCloud/discussions>
 - Issues: <https://github.com/AtalayaLabs/OxiCloud/issues>
 
-## Build philosophy
+## Build principles
 
-AtalayaLabs projects aim to follow a few principles:
+Projects at AtalayaLabs aim to follow a few clear principles:
 
-- **Rust-first where it makes sense** for safety and performance.
-- **Self-hosted by default** for users who value control.
-- **Operationally simple** so deployment and maintenance stay manageable.
-- **Contributor-friendly** with clear docs, issues and roadmap.
-
-## Community
-
-The best open-source projects grow with their community.
-
-Ways to support AtalayaLabs:
-
-- Star the repositories.
-- Join product discussions.
-- Report bugs and suggest improvements.
-- Contribute code, docs, examples or testing.
-- Share your setup and feedback.
+- **Privacy-first** when handling user data.
+- **Rust-first** when it helps safety and performance.
+- **Self-hosted by default** for users who value ownership.
+- **Operational simplicity** so deployment stays manageable.
+- **Thoughtful product design** over unnecessary complexity.
+- **Open collaboration** through issues, discussions and contributions.
 
 ## Contributing
 
-Contributions of all sizes are welcome.
+Contributions are welcome, whether that means code, testing, documentation, feedback or design ideas.
 
-If you want to help, start here:
+A good way to get involved:
 
-- Read the contribution guidelines in each repository.
-- Check open issues tagged for newcomers or help wanted.
-- Open a discussion before large architectural changes.
+- Star the project and follow development.
+- Open an issue if you find a bug.
+- Start a discussion for ideas or feature requests.
+- Check contribution guidelines before opening larger pull requests.
+- Share your setup, benchmarks or deployment experience.
+
+## Useful resources
+
+- Main repository: <https://github.com/AtalayaLabs/OxiCloud>
+- Contribution guide: <https://github.com/AtalayaLabs/OxiCloud/blob/main/CONTRIBUTING.md>
+- Discussions: <https://github.com/AtalayaLabs/OxiCloud/discussions>
+- Issue tracker: <https://github.com/AtalayaLabs/OxiCloud/issues>
 
 ## Support
 
-If GitHub Sponsors is enabled, this section can be updated later with a direct sponsor link.
+If sponsorship is enabled, this organization may later include a direct support link here.
 
-Suggested line for later:
-
-> Support development through GitHub Sponsors to help fund maintenance, new features and long-term sustainability.
-
-## Follow the work
-
-As the organization grows, this space can include:
-
-- Additional tools and services.
-- Documentation repositories.
-- Examples and deployment templates.
-- SDKs, clients and integrations.
+Support helps fund maintenance, documentation, improvements and long-term sustainability.
 
 ---
 
 <div align="center">
-
-**AtalayaLabs**  
-Building fast, private and open software.
-
+  <sub>Building fast, private and open software.</sub>
 </div>
